@@ -46,3 +46,6 @@ From Partially Labeled Images for Facial Landmark Detection](http://openaccess.t
 
 [Self-Ensembling with GAN-based Data Augmentation for Domain Adaptation in
 Semantic Segmentation]( http://openaccess.thecvf.com/content_ICCV_2019/papers/Choi_Self-Ensembling_With_GAN-Based_Data_Augmentation_for_Domain_Adaptation_in_Semantic_ICCV_2019_paper.pdf)
+
+[Self-Training and Adversarial Background Regularization for Unsupervised
+Domain Adaptive One-Stage Object Detection](http://openaccess.thecvf.com/content_ICCV_2019/papers/Kim_Self-Training_and_Adversarial_Background_Regularization_for_Unsupervised_Domain_Adaptive_One-Stage_ICCV_2019_paper.pdf)
